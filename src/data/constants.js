@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SManeesha99",
     resume:
-      "https://drive.google.com/file/d/15lciV962GYG2svxojAF78NV1_iXwqqkt/view?usp=sharing",
+      "https://drive.google.com/file/d/1VHETabkLSTpjl9_x7hZlfgqJ-Pp3JDXf/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/maneesha-fernando-539576233/",
     // insta: "https://www.instagram.com/rishav_chanda/",
     facebook: "https://web.facebook.com/manee.fernando.106/",
