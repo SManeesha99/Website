@@ -9,6 +9,7 @@ import Education from './components/education';
 import Experience from './components/Experience';
 import Contact from './components/Contact';
 import Footer from './components/Footer';
+import Projects from './components/Projects';
 import { BrowserRouter as Router } from 'react-router-dom';
 
 const Body = styled.div`
@@ -39,9 +40,12 @@ function App() {
             <Skills/>
             <Experience/>
             <Education/>
+            </Wrapper>
+            <Projects openModal={openModal} setOpenModal={setOpenModal} />
+            <Wrapper>
             <Contact/>
-            
           </Wrapper>
+          
           <Footer/>
         </Body>
 

@@ -221,27 +221,20 @@ export const Bio = {
   export const projects = [
     {
       id: 9,
-      title: "",
-      date: "",
+      title: "Travel with MULD",
+      date: "July 2023",
       description:
-        "",
+        "In this project we have implemented the Culture and Tourism Management web application.I have completed all Travel Agent functions.It took 2months to complete this project.",
       image:
         "",
-      tags: [
-        "Docker",
-        "AWS",
-        "DuckDNS",
-        "Eslint",
-        "Husky",
-        "CI/CD",
+      tags: [,
         "React Js",
         "MongoDb",
         "Node Js",
         "Express Js",
-        "Redux",
       ],
       category: "web app",
-      github: "",
+      github: "https://github.com/SManeesha99/MULD_CSSE_WE_52.git",
       webapp: "",
     },
   ];
