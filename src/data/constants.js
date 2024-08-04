@@ -252,6 +252,38 @@ export const Bio = {
       github: "",
       webapp: "",
     },
+    {
+      id:11,
+      title: "Food Recipe Mobile App",
+      date: "December 2022",
+      description:
+          "Developed a Food Recipe App using Android Studio and RESTful APIs. This app allows users to browse, search, and save recipes, create shopping lists, and share their favorite recipes with others. Designed with a user-friendly interface, the app ensures a seamless cooking experience.",
+      image:
+          "https://res.cloudinary.com/drao60sj6/image/upload/v1722794388/nature_plant_social_media_template_Facebook_Post_d3z6cn.png",
+      tags: [,
+        "Android studio",
+        "Java",
+        "REST API",
+      ],
+      category: "mibile app",
+      github: "https://github.com/SManeesha99/Food_Recipe_App.git",
+      webapp: "",
+    },
+    {
+      id:1,
+      title: "Salary Calculation",
+      date: "April 2024",
+      description:
+          "Developed a Salary Calculation web app using TypeScript. This app features a straightforward interface for users to input their salary details and instantly calculate their net salary. The project demonstrates proficiency in TypeScript and user interface design.",
+      image:
+          "https://res.cloudinary.com/drao60sj6/image/upload/v1722795241/Screenshot_2024-08-04_at_23-39-35_Salary_Calculation_g2tmdy.png",
+      tags: [,
+        "TypeScript",
+      ],
+      category: "web app",
+      github: "https://github.com/SManeesha99/salary-calculator.git",
+      webapp: "",
+    },
   ];
   
   export const TimeLineData = [
