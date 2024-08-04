@@ -226,7 +226,7 @@ export const Bio = {
       description:
         "In this project we have implemented the Culture and Tourism Management web application.I have completed all Travel Agent functions.It took 2months to complete this project.",
       image:
-        "",
+        "https://res.cloudinary.com/drao60sj6/image/upload/v1722753100/pro1_mu1uyt.png",
       tags: [,
         "React Js",
         "MongoDb",
@@ -235,6 +235,21 @@ export const Bio = {
       ],
       category: "web app",
       github: "https://github.com/SManeesha99/MULD_CSSE_WE_52.git",
+      webapp: "",
+    },
+    {
+      id:10,
+      title: "Employee Contact Details Orgernizer",
+      date: "May 2024",
+      description:
+        "The Employee Contact Details Organizer is a Swift application developed using Core Data to perform CRUD (Create, Read, Update, Delete) operations on employee details. The application allows users to manage employee information efficiently and includes a search feature to find employees by name and job title. Additionally, the app indicates the availability status of employees with a green circle next to their name in the list, making it easy for users to see who is currently available.",
+      image:
+        "https://res.cloudinary.com/drao60sj6/image/upload/v1722754960/Blue_And_White_Modern_App_Launch_Mobile_Phone_Photo_Frame_Facebook_Post_thcj51.png",
+      tags: [,
+        "Swift",
+      ],
+      category: "mibile app",
+      github: "",
       webapp: "",
     },
   ];
