@@ -9,7 +9,7 @@ export const Bio = {
       "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
     github: "https://github.com/SManeesha99",
     resume:
-      "https://drive.google.com/file/d/1VHETabkLSTpjl9_x7hZlfgqJ-Pp3JDXf/view?usp=sharing",
+      "https://drive.google.com/file/d/1jIPdm9ZcLmBlAfgw8y6_CrGW2ZI0M5rl/view?usp=sharing",
     linkedin: "https://www.linkedin.com/in/maneesha-fernando-539576233/",
     // insta: "https://www.instagram.com/rishav_chanda/",
     facebook: "https://web.facebook.com/manee.fernando.106/",
@@ -221,6 +221,60 @@ export const Bio = {
   export const projects = [
     {
       id: 9,
+      title: "Student Management System - Desktop Application",
+      date: "December 2024",
+      description:
+        "Developed a C# desktop application for managing student records, integrated with a SQL Server database and user interface was designed using Windows Forms.",
+      image:
+        "https://res.cloudinary.com/drao60sj6/image/upload/v1734365084/y2i8obxnqwzoun9x4h0a.png",
+      tags: [,
+        "C#",
+        "SQL Server",
+        "Windows Form",
+        ".NET Framework",
+      ],
+      category: "",
+      github: "https://github.com/SManeesha99/StudentManagment.git",
+      webapp: "",
+    },
+    {
+      id: 10,
+      title: "School Management System - Desktop Application",
+      date: "December 2024",
+      description:
+        "This project is a Windows Forms Application developed in C# using .NET Framework. It enables the management of student data, including adding, editing, and viewing student records. The application uses a SQL Server database for data storage and supports functionalities like image uploads and date-based record management.",
+      image:
+        "https://res.cloudinary.com/drao60sj6/image/upload/v1734365085/o2ms5ilvkawlmurxajkc.png",
+      tags: [,
+        "C#",
+        "SQL Server",
+        "Windows Form",
+        ".NET Framework",
+      ],
+      category: "",
+      github: "https://github.com/SManeesha99/School-Management-System.git",
+      webapp: "",
+    },
+    {
+      id: 11,
+      title: "Inventory Management System - Desktop Application",
+      date: "December 2024",
+      description:
+        "Inventory POS Management System using SQL Database and C# in Visual Studio.",
+      image:
+        "https://res.cloudinary.com/drao60sj6/image/upload/v1734365086/idl3e2tw9u84rb8fh0pz.png",
+      tags: [,
+        "C#",
+        "SQL Server",
+        "Windows Form",
+        ".NET Framework",
+      ],
+      category: "",
+      github: "https://github.com/SManeesha99/Inventory_Management_System.git",
+      webapp: "",
+    },
+    {
+      id: 12,
       title: "Travel with MULD",
       date: "July 2023",
       description:
@@ -238,7 +292,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id:10,
+      id:13,
       title: "Employee Contact Details Orgernizer",
       date: "May 2024",
       description:
@@ -253,7 +307,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id:11,
+      id:14,
       title: "Food Recipe Mobile App",
       date: "December 2022",
       description:
@@ -270,7 +324,7 @@ export const Bio = {
       webapp: "",
     },
     {
-      id:1,
+      id:15,
       title: "Salary Calculation",
       date: "April 2024",
       description:
@@ -291,4 +345,5 @@ export const Bio = {
     { year: 2017, text: "complete A/L s" },
     { year: 2020, text: "Started Bacholer Degree " },
     { year: 2023, text: "Strated Internship" }, 
+    { year: 2024, text: "Graduated - B.Sc. in Information Technology" }, 
   ];
